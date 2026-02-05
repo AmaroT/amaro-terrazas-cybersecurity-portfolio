@@ -58,7 +58,7 @@ This repo documents my hands-on cybersecurity learning and projects. Below are k
 ## Connect
 - LinkedIn: [linkedin.com/in/amaro-terrazas](https://www.linkedin.com/in/amaro-terrazas)  
 - Email: amaro.terrazas@gmail.com  
-- Resume: (link or attach PDF when applying)
+- Resume: Availabe upon request
 
 Feel free to reach out if you'd like to discuss cybersecurity learning paths, veteran transitions into tech, or collaboration on beginner-friendly projects!
 
