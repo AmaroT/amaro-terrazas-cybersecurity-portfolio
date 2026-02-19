@@ -2,7 +2,8 @@
 
 U.S. Marine Corps Veteran (Sergeant) | B.S. Computer Science (Expected May 2026, 3.8 GPA) | Transitioning to Cybersecurity from Application Development
 
-This repository serves as my growing cybersecurity portfolio.  
+This repository serves as my growing cybersecurity portfolio for educational purposes only: no real-world unauthorized testing. 
+
 I am currently building hands-on experience through self-study labs, coursework, and personal projects while preparing for CompTIA Security+ (expected Spring 2026).  
 My goal is to document practical exposure to defensive security concepts, secure development practices, and foundational tools — with a focus on enterprise-relevant skills like zero-trust principles, OS hardening, cloud security basics, and automation scripting.
 
@@ -55,6 +56,9 @@ This repo documents my hands-on cybersecurity learning and projects. Below are k
 - `/secure-coding/` — Code experiments  
 - `/threat-modeling/` — Framework-based analyses
 
+## Progress
+Last updated: February 2026 | Projects added: 5 | Next: Burp Suite write-up
+
 ## Connect
 - LinkedIn: [linkedin.com/in/amaro-terrazas](https://www.linkedin.com/in/amaro-terrazas)  
 - Email: amaro.terrazas@gmail.com  
@@ -62,4 +66,4 @@ This repo documents my hands-on cybersecurity learning and projects. Below are k
 
 Feel free to reach out if you'd like to discuss cybersecurity learning paths, veteran transitions into tech, or collaboration on beginner-friendly projects!
 
-Last updated: February 2026
+
